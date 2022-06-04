@@ -14,7 +14,7 @@
 //   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 //   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //
-//   For information on how to use, visit https://github.com/protocentral/ProtoCentral_fdc1004_breakout
+//   For information on how to use, visit https://github.com/rmshub/ProtoCentral_fdc1004_esp32
 /////////////////////////////////////////////////////////////////////////////////////////
 
 #ifndef _FDC1004

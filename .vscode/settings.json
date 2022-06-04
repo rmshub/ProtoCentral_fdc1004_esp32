@@ -2,4 +2,5 @@
   "C_Cpp.intelliSenseEngine": "Tag Parser",
   "idf.pythonBinPath": "${env:IDF_PYTHON_ENV_PATH}/bin/python",
   "git.autoRepositoryDetection": false,
+  "idf.adapterTargetName": "esp32",
 }
