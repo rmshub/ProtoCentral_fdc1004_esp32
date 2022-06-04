@@ -23,7 +23,7 @@ extern "C" void app_main(void)
         FDC.triggerSingleMeasurement(MEASURMENT, FDC1004_100HZ);
 
         // wait for completion
-        vTaskDelay(15 / portTICK_RATE_MS);
+        vTaskDelay(1000 / portTICK_RATE_MS);
         uint16_t value[2];
         if (!FDC.readMeasurement(MEASURMENT, value))
         {
