@@ -1,0 +1,9 @@
+#
+# Compiler options
+#
+CONFIG_COMPILER_OPTIMIZATION_SIZE=y
+
+#
+# Serial flasher config
+#
+CONFIG_ESPTOOLPY_FLASHSIZE_4MB=y
